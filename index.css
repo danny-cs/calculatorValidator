@@ -1,0 +1,37 @@
+/*
+-Danny Nguyen
+-danny_nguyen1@student.uml.edu
+-University Of Massachusetts Lowell - 96.161 GUI Programming 1
+-Last updated November 15th, 2016
+*/
+/*
+This css file adds basic styling to the calculator page which includes
+padding  for the table, calculator form, text, and the submit button.
+*/
+header{
+vertical-align: text-top;
+color: white;
+font-weight: 600;
+}
+body{
+padding: 40px;
+background-color: #7F7373;
+}
+footer{
+vertical-align: text-bottom;
+color: white;
+font-weight: 600;
+}
+.btn{
+margin-top: 30px;
+}
+#timesTable > tbody > tr > td > p{
+}
+table {
+margin-top: 30px;
+}
+
+label.error {
+	color: white;
+	font-size: 8pt;	
+}
